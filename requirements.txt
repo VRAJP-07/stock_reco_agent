@@ -1,0 +1,11 @@
+streamlit
+langchain
+langgraph
+openai
+yfinance
+pandas
+plotly
+ta
+requests
+python-dotenv
+langchain_groq
