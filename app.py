@@ -20,3 +20,5 @@ if submitted and user_input:
         result = run_analysis(tickers)
     st.subheader("🧠 AI Recommendation:")
     st.write(result)
+
+
